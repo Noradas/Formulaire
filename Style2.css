@@ -1,0 +1,33 @@
+body {
+background-color: #A9D7E9;
+height: 100%;
+margin-right: 15%;
+margin-left: 15%;
+
+
+}
+form{
+    border-radius: 10px;
+    background-color: #f3f3f3;
+    text-align: left;
+    height: 80%;
+
+    
+}
+#btn{
+    background-color: #6BA2CE;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+.labelo{
+    text-align: right;
+    padding-right: 5%;
+}
+table{
+    height: 100%;  
+}
